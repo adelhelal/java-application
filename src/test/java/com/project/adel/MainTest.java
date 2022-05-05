@@ -31,7 +31,7 @@ public class MainTest {
 
     @Test
     public void Array_Test() {
-        assertArrayEquals(new int[]{1, 2, 3, 4, 5, 6}, new int[]{1, 2, 3, 4, 5, 6});
+        assertArrayEquals(new int[]{1, 2, 3, 4, 5, 6}, new int[]{1, 2, 3, 4, 5});
     }
 
     @Test
